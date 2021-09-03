@@ -12,7 +12,7 @@ go get github.com/dogslee/consistent
 
 ## example
 
-Lock at the [godoc]("https://pkg.go.dev/github.com/dogslee/consistent")
+Lock at the [godoc](https://pkg.go.dev/github.com/dogslee/consistent)
 
 ## status
 
